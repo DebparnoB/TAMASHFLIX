@@ -6,7 +6,7 @@ export const Navbar = () => {
     <div className="navbar">
         <div className="container">
             <div className="left">
-                <img src="https://i.ibb.co/S56ZfNJ/logo.png" alt="" />
+                <img src="https://i.ibb.co/yf1FZFY/Screenshot-2023-02-17-at-6-10-48-PM-removebg-preview.png" alt="" />
                 <span>Homepage</span>
                 <span>Series</span>
                 <span>Movies</span>
