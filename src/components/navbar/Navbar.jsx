@@ -6,7 +6,7 @@ export const Navbar = () => {
     <div className="navbar">
         <div className="container">
             <div className="left">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="" />
+                <img src="https://i.ibb.co/S56ZfNJ/logo.png" alt="" />
                 <span>Homepage</span>
                 <span>Series</span>
                 <span>Movies</span>
