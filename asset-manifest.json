@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tamashflix/static/css/main.4af58526.css",
-    "main.js": "/tamashflix/static/js/main.297cd178.js",
+    "main.css": "/tamashflix/static/css/main.563ace22.css",
+    "main.js": "/tamashflix/static/js/main.5a3ddd17.js",
     "index.html": "/tamashflix/index.html",
-    "main.4af58526.css.map": "/tamashflix/static/css/main.4af58526.css.map",
-    "main.297cd178.js.map": "/tamashflix/static/js/main.297cd178.js.map"
+    "main.563ace22.css.map": "/tamashflix/static/css/main.563ace22.css.map",
+    "main.5a3ddd17.js.map": "/tamashflix/static/js/main.5a3ddd17.js.map"
   },
   "entrypoints": [
-    "static/css/main.4af58526.css",
-    "static/js/main.297cd178.js"
+    "static/css/main.563ace22.css",
+    "static/js/main.5a3ddd17.js"
   ]
 }
